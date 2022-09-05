@@ -42,7 +42,7 @@ Normally this requires a 'manifest' repository that houses a repo XML file to de
   <project name="sel4runtime.git" path="projects/sel4runtime" revision="d935dd05da0cf959e9fd0140af913dc6fdaa0221" upstream="master" dest-branch="master"/>
   <project name="util_libs.git" path="projects/util_libs" revision="f5838745c011af49ae5c3241ce560207e6dedcec" upstream="master" dest-branch="master"/>
 
-  <project name="sel4-roottask-test" remote="nuclearpidgeon" path="projects/roottask-test" revision="main"/>
+  <project name="sel4-roottask-test.git" remote="nuclearpidgeon" path="projects/roottask-test" revision="main"/>
 </manifest>
 ```
 
